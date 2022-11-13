@@ -1,0 +1,20 @@
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\bin\Debug\net6.0-windows\Pizza Shop Managment.exe
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\bin\Debug\net6.0-windows\Pizza Shop Managment.deps.json
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\bin\Debug\net6.0-windows\Pizza Shop Managment.runtimeconfig.json
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\bin\Debug\net6.0-windows\Pizza Shop Managment.dll
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\bin\Debug\net6.0-windows\Pizza Shop Managment.pdb
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\Pizza Shop Managment.csproj.AssemblyReference.cache
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\Pizza_Shop_Managment.Form1.resources
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\Pizza_Shop_Managment.Properties.Resources.resources
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\Pizza Shop Managment.csproj.GenerateResource.cache
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\Pizza Shop Managment.GeneratedMSBuildEditorConfig.editorconfig
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\Pizza Shop Managment.AssemblyInfoInputs.cache
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\Pizza Shop Managment.AssemblyInfo.cs
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\Pizza Shop Managment.csproj.CoreCompileInputs.cache
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\Pizza Shop Managment.dll
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\refint\Pizza Shop Managment.dll
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\Pizza Shop Managment.pdb
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\Pizza Shop Managment.genruntimeconfig.cache
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\ref\Pizza Shop Managment.dll
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\Pizza_Shop_Managment.UserOrder.resources
+E:\course\c#\course assignment\Pizza Shop\Pizza Shop Managment\Pizza Shop Managment\obj\Debug\net6.0-windows\Pizza_Shop_Managment.OrderDetails.resources
